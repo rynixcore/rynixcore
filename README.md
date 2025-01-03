@@ -1,8 +1,5 @@
-Here’s your updated document with "Quanex" renamed to "Rynix Core" and "quanex" to "rynix core":
+![bannergit](https://github.com/user-attachments/assets/585e21b7-758d-4476-a664-acf16c8067fd)
 
----
-
-![github](https://github.com/user-attachments/assets/13b4faf7-fc73-470e-a81a-b911ddcb6abe)
 
 [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rynixcore)
 
