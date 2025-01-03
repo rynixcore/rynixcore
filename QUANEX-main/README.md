@@ -1,6 +1,6 @@
-![github](https://github.com/user-attachments/assets/13b4faf7-fc73-470e-a81a-b911ddcb6abe)
+![github](https://github.com/user-attachments/assets/bb9d8c02-3cac-4585-b937-891415ddfd02)
 
-[![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/quanexsystems)
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20our%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/agora-999382051935506503) [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/quanexsystems)
 
 # 🔥 Quanex: The LifeForge Model
 
@@ -225,6 +225,6 @@ We welcome contributions from the community! Whether it's new features, bug fixe
 
 Connect with fellow bioengineers and enthusiasts in the **Quanex** community:
 
-- [Twitter](https://x.com/quanexsystems)
+- [Twitter](https://x.com/quanexsystems))
 
 
